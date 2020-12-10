@@ -1,0 +1,1 @@
+import tpl2css from './tpl2.css';

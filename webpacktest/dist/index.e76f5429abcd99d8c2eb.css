@@ -8,6 +8,10 @@ div{
 div p{
     color: white;
 }
+
+a{
+    margin: 0 auto;
+}
 div p {
   color: green;
   text-decoration: none;
